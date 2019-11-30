@@ -1,4 +1,4 @@
-# Unity Logic
+# HEXAGON INSTALLER SCRIPT
 
 if [ -z $UF ]; then
   UF=$TMPDIR/common/unityfiles
